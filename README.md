@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty | Date |
 |---| ----- | -------- | ---------- | ---- |
+|131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [Java](https://github.com/Zingg7/LeetCode/blob/master/131.%20Palindrome%20Partitioning.md)|Medium|2019.04.18|
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [Java](https://github.com/Zingg7/LeetCode/blob/master/130.%20Surrounded%20Regions.md)|Medium|2019.04.18|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Java](https://github.com/Zingg7/LeetCode/blob/master/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md)|Easy|2019.04.17|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Java](https://github.com/Zingg7/LeetCode/blob/master/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)|Easy|2019.04.17|
