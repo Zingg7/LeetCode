@@ -10,8 +10,8 @@
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Java](https://github.com/Zingg7/LeetCode/blob/master/118%26119.%20Pascal's%20Triangle(I%26II).md)|Easy|2019.04.17|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Java](https://github.com/Zingg7/LeetCode/blob/master/53.%20Maximum%20Subarray.md)|Easy|2019.03.29|
 
-|1|[]() | [Java]()|||
-|1|[]() | [Java]()|||
+|1|[]() | [Java]()|Medium|2019.0|
+|1|[]() | [Java]()|Medium|2019.0|
 
 
 04.16
