@@ -8,19 +8,22 @@
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Java](https://github.com/Zingg7/LeetCode/blob/master/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md)|Easy|2019.04.17|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Java](https://github.com/Zingg7/LeetCode/blob/master/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)|Easy|2019.04.17|
 |120|[Triangle](https://leetcode.com/problems/triangle/) | [Java](https://github.com/Zingg7/LeetCode/blob/master/120.%20Triangle.md)|Medium|2019.04.17|
-|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Java](https://github.com/Zingg7/LeetCode/blob/master/118%26119.%20Pascal's%20Triangle(I%26II).md)|Easy|2019.04.17|
-|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Java](https://github.com/Zingg7/LeetCode/blob/master/118%26119.%20Pascal's%20Triangle(I%26II).md)|Easy|2019.04.17|
-|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Java](https://github.com/Zingg7/LeetCode/blob/master/53.%20Maximum%20Subarray.md)|Easy|2019.03.29|
-|6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Java]()|Medium|2019.0|
-|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)| [Java](https://github.com/Zingg7/LeetCode/blob/master/5.%20Longest%20Palindromic%20Substring.md)|Medium|2019.02.28|
-|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Java](https://github.com/Zingg7/LeetCode/blob/master/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)|Medium|2019.03.18|
-|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Java](https://github.com/Zingg7/LeetCode/blob/master/2.%20Add%20Two%20Numbers.md)|Medium|2019.04.22|
-|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Java](https://github.com/Zingg7/LeetCode/blob/master/1.%20Two%20Sum.md)|Easy|2019.03.19|
+|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/118%26119.%20Pascal's%20Triangle(I%26II).md)|Easy|2019.04.17|
+|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/118%26119.%20Pascal's%20Triangle(I%26II).md)|Easy|2019.04.17|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/53.%20Maximum%20Subarray.md)|Easy|2019.03.29|
+|9|[]()|[Java]()|Medium|2019.0|
+|8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/8.%20String%20to%20Integer%20(atoi).md)|Medium|2019.03.06|
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/7.%20Reverse%20Integer.md)|Easy|2019.03.06|
+|6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/6.%20ZigZag%20Conversion.md)|Medium|2019.02.28|
+|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/5.%20Longest%20Palindromic%20Substring.md)|Medium|2019.02.28|
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)|Medium|2019.03.18|
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/2.%20Add%20Two%20Numbers.md)|Medium|2019.04.22|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/1.%20Two%20Sum.md)|Easy|2019.03.19|
 
 
 Template:
 
-|1|[]() | [Java]()|Medium|2019.0|
+|1|[]()|[Java]()|Medium|2019.0|
 
 
 
