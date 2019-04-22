@@ -11,6 +11,10 @@
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Java](https://github.com/Zingg7/LeetCode/blob/master/118%26119.%20Pascal's%20Triangle(I%26II).md)|Easy|2019.04.17|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Java](https://github.com/Zingg7/LeetCode/blob/master/118%26119.%20Pascal's%20Triangle(I%26II).md)|Easy|2019.04.17|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Java](https://github.com/Zingg7/LeetCode/blob/master/53.%20Maximum%20Subarray.md)|Easy|2019.03.29|
+|6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Java]()|Medium|2019.0|
+|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)| [Java](https://github.com/Zingg7/LeetCode/blob/master/5.%20Longest%20Palindromic%20Substring.md)|Medium|2019.02.28|
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Java](https://github.com/Zingg7/LeetCode/blob/master/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)|Medium|2019.03.18|
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Java](https://github.com/Zingg7/LeetCode/blob/master/2.%20Add%20Two%20Numbers.md)|Medium|2019.04.22|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Java](https://github.com/Zingg7/LeetCode/blob/master/1.%20Two%20Sum.md)|Easy|2019.03.19|
 
 
@@ -23,11 +27,12 @@ Template:
 
 04.16
 
-从今天开始把做了的LC题答案放到这里。
+从今天开始把做了的LC题答案放到这里。<br>
 已经做到90题，初步目标是做到132以后按频率在做一遍。Hard题都没有做，另外有些之前觉得太复杂的/有知识点不明白的没有做，第二遍的时候注意完成。
 
 
 04.22
 
-一个月做了60题，我的速度也忒慢了吧！哭唧唧
-开始重头做了。说是做完132，看到hard跳看到treenode跳，最后只做了66…… 居然刚好一半？！
+一个月做了60题，我的速度也忒慢了吧！哭唧唧<br>
+开始重头做了。说是做完132，看到hard跳看到treenode跳，最后只做了66…… 居然刚好一半？！<br>
+今天得整理一下
