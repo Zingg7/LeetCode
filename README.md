@@ -14,11 +14,11 @@
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/53.%20Maximum%20Subarray.md)|Easy|2019.03.29|
 |20|[Valid Parentheses]()|[Java]()|Easy|2019.04.23|
 |19|[Remove Nth Node From End of List]()|[Java]()|Medium|2019.04.23|
-|18|[4Sum]()|[Java]()|Medium|2019.03.18|
+|18|[4Sum](https://leetcode.com/problems/4sum/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/18.%204Sum.md)|Medium|2019.03.18|
 |17|[Letter Combinations of a Phone Number]()|[Java]()|Medium|2019.03.18|
-|16|[3Sum Closest]()|[Java]()|Medium|2019.03.15|
-|15|[3Sum]()|[Java]()|Medium|2019.03.15|
-|14|[Longest Common Prefix]()|[Java]()|Easy|2019.03.08|
+|16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/16.%203Sum%20Closest.md)|Medium|2019.03.15|
+|15|[3Sum](https://leetcode.com/problems/3sum/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/15.%203Sum.md)|Medium|2019.03.15|
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/14.%20Longest%20Common%20Prefix.md)|Easy|2019.03.08|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/12&13.%20Integer%20Roman%20Transform.md)|Easy|2019.03.19|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/12&13.%20Integer%20Roman%20Transform.md)|Medium|2019.03.07|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/11.%20Container%20With%20Most%20Water.md)|Medium|2019.03.07|
