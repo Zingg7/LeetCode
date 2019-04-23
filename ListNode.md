@@ -6,7 +6,7 @@
 
 <br>
 
-**一般都会直接在注释中给出: ** <br>
+**一般都会直接在注释中给出:** <br>
 ```JAVA
 Definition for singly-linked list.
 public class ListNode {
