@@ -1,6 +1,9 @@
 # ListNode
 
-最初在LC.2中出现。
+最初在LC.2中出现。<br>
+
+在Java中，尽管没有指针的存在，仍可以通过定义实现链表的效果。<br>
+<br>
 
 > Relate Questions:<br>
 [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)<br>
@@ -15,7 +18,9 @@
 [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)<br>
 <br>
 <br>
+
 **一般都会直接在注释中给出:** <br>
+
 ```JAVA
 Definition for singly-linked list.
 public class ListNode {
@@ -24,7 +29,7 @@ public class ListNode {
     ListNode(int x) { val = x; }    //initialize
 }
 ```
-<br>
+
 <br>
 节点存储了两个变量：value和next。<br>
 value 是这个节点的值，next 是指向下一节点的指针，当 next 为空指针时，这个节点是链表的最后一个节点。
