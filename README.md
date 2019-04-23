@@ -11,7 +11,7 @@
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/118%26119.%20Pascal's%20Triangle(I%26II).md)|Easy|2019.04.17|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/118%26119.%20Pascal's%20Triangle(I%26II).md)|Easy|2019.04.17|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/53.%20Maximum%20Subarray.md)|Easy|2019.03.29|
-|9|[]()|[Java]()|Medium|2019.0|
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/9.%20Palindrome%20Number.md)|Easy|2019.03.07|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/8.%20String%20to%20Integer%20(atoi).md)|Medium|2019.03.06|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/7.%20Reverse%20Integer.md)|Easy|2019.03.06|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/6.%20ZigZag%20Conversion.md)|Medium|2019.02.28|
