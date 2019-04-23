@@ -15,6 +15,6 @@ public class ListNode {
     ListNode(int x) { val = x; }    //initialize
 }
 ```
-
+<br>
 节点存储了两个变量：value和next。<br>
 value 是这个节点的值，next 是指向下一节点的指针，当 next 为空指针时，这个节点是链表的最后一个节点。
