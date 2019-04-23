@@ -13,12 +13,8 @@
 [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)<br>
 [86. Partition List](https://leetcode.com/problems/partition-list/)<br>
 [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)<br>
-
-
-在Java中，尽管没有指针的存在，仍可以通过定义实现链表的效果。
-
 <br>
-
+<br>
 **一般都会直接在注释中给出:** <br>
 ```JAVA
 Definition for singly-linked list.
