@@ -4,6 +4,7 @@
 此类实现 Set 接口，由哈希表（实际上是一个 HashMap 实例）支持。<br>
 它不保证 set 的迭代顺序；特别是它不保证该顺序恒久不变。<br>
 允许使用 null 元素。
+
 <br>
 
 ## 常见方法
@@ -16,6 +17,7 @@
 | Iterator<E> | iterator() | 返回对此 set 中元素进行迭代的迭代器 |
 | boolean | remove() | 如果指定元素存在于此 set 中，则将其移除 |
 | int |	size() | 返回此 set 中的元素的数量（set 的容量） |
+  
 <br>
 
 ## HashSet集合的add()方法的源码
@@ -35,6 +37,7 @@
 &emsp;不同：就直接把元素添加到集合<br>
 如果类没有重写这两个方法，默认使用的Object()。一般来说不会相同。<br>
 而String类重写了hashCode()和equals()方法，所以，它就可以把内容相同的字符串去掉。只留下一个。<br>
+
 <br>
 
 ## Reference
