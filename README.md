@@ -12,10 +12,10 @@
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/118%26119.%20Pascal's%20Triangle(I%26II).md)|Easy|2019.04.17|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/118%26119.%20Pascal's%20Triangle(I%26II).md)|Easy|2019.04.17|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/53.%20Maximum%20Subarray.md)|Easy|2019.03.29|
-|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Java]()|Easy|2019.04.24|
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/20.%20Valid%20Parentheses.md)|Easy|2019.04.24|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md)|Medium|2019.04.24|
 |18|[4Sum](https://leetcode.com/problems/4sum/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/18.%204Sum.md)|Medium|2019.03.18|
-|17|[Letter Combinations of a Phone Number]()|[Java]()|Medium|2019.03.18|
+|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.md)|Medium|2019.03.18|
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/16.%203Sum%20Closest.md)|Medium|2019.03.15|
 |15|[3Sum](https://leetcode.com/problems/3sum/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/15.%203Sum.md)|Medium|2019.03.15|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/14.%20Longest%20Common%20Prefix.md)|Easy|2019.03.08|
