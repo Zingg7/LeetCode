@@ -1,12 +1,10 @@
 # ListNode
 
-最初在LC.2中出现。<br>
-
 在Java中，尽管没有指针的存在，仍可以通过定义实现链表的效果。<br>
 <br>
 
 
-### 一般都会直接在注释中给出: 
+## 一般都会直接在注释中给出: 
 
 ```JAVA
 Definition for singly-linked list.
