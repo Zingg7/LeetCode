@@ -5,9 +5,8 @@
 它不保证 set 的迭代顺序；特别是它不保证该顺序恒久不变。<br>
 允许使用 null 元素。
 <br>
-<br>
 
-### 1. 常见方法
+## 常见方法
 | Return | Method | Description | 
 | :-: | :-: | :-: | 
 | boolean | add() | 如果此 set 中尚未包含指定元素，则添加指定元素 |
@@ -19,7 +18,7 @@
 | int |	size() | 返回此 set 中的元素的数量（set 的容量） |
 <br>
 
-### 2. HashSet集合的add()方法的源码
+## HashSet集合的add()方法的源码
 * 为什么存储字符串的时候，字符串内容相同的只存储了一个？ <br>
 
 通过查看add方法的源码，我们知道这个方法底层依赖 两个方法：hashCode()和equals()。<br>
@@ -37,7 +36,6 @@
 如果类没有重写这两个方法，默认使用的Object()。一般来说不会相同。<br>
 而String类重写了hashCode()和equals()方法，所以，它就可以把内容相同的字符串去掉。只留下一个。<br>
 <br>
-<br>
 
-参考资料:
+## Reference
 [Java API —— Set接口 & HashSet类 & LinkedHashSet类](https://www.cnblogs.com/yangyquin/p/5055131.html)
