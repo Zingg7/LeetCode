@@ -4,7 +4,7 @@
 <br>
 
 
-## 一般都会直接在注释中给出: 
+## 一般都会直接在注释中给出:
 
 ```JAVA
 Definition for singly-linked list.
@@ -22,7 +22,7 @@ value 是这个节点的值，next 是指向下一节点的指针，当 next 为
 <br>
 
 
-### Relate Questions:
+## Related Questions:
 
 | # | Title | Solution | Difficulty | Date |
 |:-:|---|:-:|:-:|:-:|
