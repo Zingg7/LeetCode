@@ -1,21 +1,25 @@
 # 
 
-
+[PUT HERE]
 
 <br>
-<br>
 
-### 1. 常见方法
+## Methods
+
 | Return | Method | Description | 
 | :-: | :-: | :-: | 
+[PUT HERE]
 
 <br>
 
-### 2. 
-&emsp;
+## Relate Questions:
+
+| # | Title | Solution | Difficulty | Date |
+|:-:|---|:-:|:-:|:-:|
+[PUT HERE]
 
 <br>
-<br>
 
-Refernce:
+## Refernce:
+
 []()
