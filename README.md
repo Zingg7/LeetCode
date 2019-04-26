@@ -21,7 +21,7 @@
 |34|[Search for a Range]()|[Java]()|Medium|2019.03.20|
 |33|[Search in Rotated Sorted Array]()|[Java]()|Medium|2019.03.20|
 |32|[Longest Valid Parentheses]()|[Java]()|Hard|-|
-|31|[Next Permutation]()|[Java]()|Medium|2019.03.20|
+|31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/31.%20Next%20Permutation.md)|Medium|2019.03.20|
 |30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|[Java]()|Hard|-|
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/29.%20Divide%20Two%20Integers.md)|Medium|2019.03.14|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/28.%20Implement%20strStr().md)|Easy|2019.03.15|
@@ -30,7 +30,7 @@
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[Java]()|Hard|-|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/24.%20Swap%20Nodes%20in%20Pairs.md)|Medium|2019.04.25|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[Java]()|Hard|-|
-|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Java]()|Medium|2019.0|
+|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/22.%20Generate%20Parentheses.md)|Medium|2019.04.26|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/21.%20Merge%20Two%20Sorted%20Lists.md)|Easy|2019.04.25|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/20.%20Valid%20Parentheses.md)|Easy|2019.04.24|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md)|Medium|2019.04.24|
