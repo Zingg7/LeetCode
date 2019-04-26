@@ -12,6 +12,16 @@
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/118%26119.%20Pascal's%20Triangle(I%26II).md)|Easy|2019.04.17|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/118%26119.%20Pascal's%20Triangle(I%26II).md)|Easy|2019.04.17|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/53.%20Maximum%20Subarray.md)|Easy|2019.03.29|
+|40|[Combination Sum II]()|[Java]()|Medium|2019.03.21|
+|39|[Combination Sum]()|[Java]()|Medium|2019.03.21|
+|38|[Count and Say]()|[Java]()|Easy|2019.03.22|
+|37|[Sudoku Solver]()|[Java]()|Hard|-|
+|36|[Valid Sudoku]()|[Java]()|Medium|2019.03.21|
+|35|[Search Insert Position]()|[Java]()|Easy|2019.03.21|
+|34|[Search for a Range]()|[Java]()|Medium|2019.03.20|
+|33|[Search in Rotated Sorted Array]()|[Java]()|Medium|2019.03.20|
+|32|[Longest Valid Parentheses]()|[Java]()|Hard|-|
+|31|[Next Permutation]()|[Java]()|Medium|2019.03.20|
 |30|[Substring with Concatenation of All Words]()|[Java]()|Hard|-|
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/29.%20Divide%20Two%20Integers.md)|Medium|2019.03.14|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/28.%20Implement%20strStr().md)|Easy|2019.03.15|
@@ -20,7 +30,7 @@
 |25|[Reverse Nodes in k-Group]()|[Java]()|Hard|-|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/24.%20Swap%20Nodes%20in%20Pairs.md)|Medium|2019.04.25|
 |23|[Merge k Sorted Lists]()|[Java]()|Hard|-|
-|22|[Generate Parentheses]()|[Java]()|Medium|2019.0|
+|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Java]()|Medium|2019.0|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/21.%20Merge%20Two%20Sorted%20Lists.md)|Easy|2019.04.25|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/20.%20Valid%20Parentheses.md)|Easy|2019.04.24|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md)|Medium|2019.04.24|
