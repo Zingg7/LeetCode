@@ -12,17 +12,21 @@ __Vector__ 是矢量队列，和ArrayList一样，它也是一个动态数组，
 
 <br>
 
-## 层次
+## 层次图
 
-### Collection:
-#### Set:　无序集合，元素不可重复
-┖┄┄＞　EnumSet　SortedSet　HashSet　<br>
-　　　　　　　　　┖＞ TreeSet　┖＞ LinkedHashSet
-#### List:　有序集合，元素可以重复
-┖┄┄＞　LinkedList　ArrayList　Vector　　
-#### Queue:　队列
-┖┄┄＞　Deque　PriorityQueue
-
+Collection<br>
+　　｜——Set：无序集合，元素不可重复<br>
+　　｜　　｜——EnumSet<br>
+　　｜　　｜——SortedSet——TreeSet<br>
+　　｜　　｜——HashSet——LinkedHashSet<br>
+　　｜——List：有序集合，元素可以重复<br>
+　　｜　　｜——LinkedList<br>
+　　｜　　｜——ArrayList<br>
+　　｜　　｜——Vector<br>
+　　｜——Queue：队列<br>
+　　　　　｜——Deque<br>
+　　　　　｜——PriorityQueue<br>
+　
 
 ## Methods
 
