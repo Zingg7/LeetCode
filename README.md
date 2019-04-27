@@ -12,13 +12,13 @@
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/118%26119.%20Pascal's%20Triangle(I%26II).md)|Easy|2019.04.17|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/118%26119.%20Pascal's%20Triangle(I%26II).md)|Easy|2019.04.17|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/53.%20Maximum%20Subarray.md)|Easy|2019.03.29|
-|40|[Combination Sum II]()|[Java]()|Medium|2019.03.21|
-|39|[Combination Sum]()|[Java]()|Medium|2019.03.21|
-|38|[Count and Say]()|[Java]()|Easy|2019.03.22|
+|40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/40.%20Combination%20Sum%20II.md)|Medium|2019.03.21|
+|39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/39.%20Combination%20Sum.md)|Medium|2019.03.21|
+|38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/38.%20Count%20and%20Say.md)|Easy|2019.03.22|
 |37|[Sudoku Solver]()|[Java]()|Hard|-|
-|36|[Valid Sudoku]()|[Java]()|Medium|2019.03.21|
-|35|[Search Insert Position]()|[Java]()|Easy|2019.03.21|
-|34|[Search for a Range]()|[Java]()|Medium|2019.03.20|
+|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/36.%20Valid%20Sudoku.md)|Medium|2019.03.21|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/35.%20Search%20Insert%20Position.md)|Easy|2019.03.21|
+|34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Java]()|Medium|2019.03.20|
 |33|[Search in Rotated Sorted Array]()|[Java]()|Medium|2019.03.20|
 |32|[Longest Valid Parentheses]()|[Java]()|Hard|-|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/31.%20Next%20Permutation.md)|Medium|2019.03.20|
