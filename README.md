@@ -13,6 +13,16 @@
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/118%26119.%20Pascal's%20Triangle(I%26II).md)|Easy|2019.04.17|
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/81.%20Search%20in%20Rotated%20Sorted%20Array%20II.md)|Medium|2019.04|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/53.%20Maximum%20Subarray.md)|Easy|2019.03.29|
+|50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Java]()|Medium|2019.03.27|
+|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Java]()|Medium|2019.0327|
+|48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/48.%20Rotate%20Image.md)|Medium|2019.03.27|
+|47|[Permutations II](https://leetcode.com/problems/permutations-ii/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/47.%20Permutations%20II.md)|Medium|2019.03.27|
+|46|[Permutations](https://leetcode.com/problems/permutations/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/46.%20Permutations.md)|Medium|2019.03.26|
+|45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[Java]()|Hard|-|
+|44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|[Java]()|Hard|-|
+|43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[Java]()|Medium|2019.0|
+|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Java]()|Hard|-|
+|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Java]()|Hard|-|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/40.%20Combination%20Sum%20II.md)|Medium|2019.03.21|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/39.%20Combination%20Sum.md)|Medium|2019.03.21|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/38.%20Count%20and%20Say.md)|Easy|2019.03.22|
@@ -43,6 +53,7 @@
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/12&13.%20Integer%20Roman%20Transform.md)|Easy|2019.03.19|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/12&13.%20Integer%20Roman%20Transform.md)|Medium|2019.03.07|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/11.%20Container%20With%20Most%20Water.md)|Medium|2019.03.07|
+|10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/10.%20Regular%20Expression%20Matching.md)|Medium|2019.04.28|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/9.%20Palindrome%20Number.md)|Easy|2019.03.07|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/8.%20String%20to%20Integer%20(atoi).md)|Medium|2019.03.06|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/7.%20Reverse%20Integer.md)|Easy|2019.03.06|
