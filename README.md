@@ -12,35 +12,44 @@
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/118%26119.%20Pascal's%20Triangle(I%26II).md)|Easy|2019.04.17|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/118%26119.%20Pascal's%20Triangle(I%26II).md)|Easy|2019.04.17|
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/81.%20Search%20in%20Rotated%20Sorted%20Array%20II.md)|Medium|2019.04|
+|60|[Permutation Sequence]()|[Java]()|Medium|2019.04.03|
+|59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[Java]()|Medium|2019.04.02|
+|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Java]()|Easy|2019.04.02|
+|57|[Insert Interval]()|[Java]()|Hard|-|
+|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Java]()|Medium|2019.04.02|
+|55|[Jump Game](https://leetcode.com/problems/jump-game/)|[Java]()|Medium|2019.03.29|
+|54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Java]()|Medium|2019.03.29|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/53.%20Maximum%20Subarray.md)|Easy|2019.03.29|
-|50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Java]()|Medium|2019.03.27|
-|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Java]()|Medium|2019.0327|
+|52|[N-Queens II]()|[Java]()|Hard|-|
+|51|[N-Queens]()|[Java]()|Hard|-|
+|50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[*Java]()|Medium|2019.03.27|
+|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[*Java]()|Medium|2019.0327|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/48.%20Rotate%20Image.md)|Medium|2019.03.27|
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/47.%20Permutations%20II.md)|Medium|2019.03.27|
 |46|[Permutations](https://leetcode.com/problems/permutations/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/46.%20Permutations.md)|Medium|2019.03.26|
-|45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[Java]()|Hard|-|
-|44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|[Java]()|Hard|-|
-|43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[Java]()|Medium|2019.0|
-|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Java]()|Hard|-|
-|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Java]()|Hard|-|
+|45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[*Java]()|Hard|-|
+|44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|[*Java]()|Hard|-|
+|43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[*Java]()|Medium|2019.0|
+|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[*Java]()|Hard|-|
+|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[*Java]()|Hard|-|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/40.%20Combination%20Sum%20II.md)|Medium|2019.03.21|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/39.%20Combination%20Sum.md)|Medium|2019.03.21|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/38.%20Count%20and%20Say.md)|Easy|2019.03.22|
-|37|[Sudoku Solver]()|[Java]()|Hard|-|
+|37|[Sudoku Solver]()|[*Java]()|Hard|-|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/36.%20Valid%20Sudoku.md)|Medium|2019.03.21|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/35.%20Search%20Insert%20Position.md)|Easy|2019.03.21|
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md)|Medium|2019.03.20|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/33.%20Search%20in%20Rotated%20Sorted%20Array.md)|Medium|2019.03.20|
-|32|[Longest Valid Parentheses]()|[Java]()|Hard|-|
+|32|[Longest Valid Parentheses]()|[*Java]()|Hard|-|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/31.%20Next%20Permutation.md)|Medium|2019.03.20|
-|30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|[Java]()|Hard|-|
+|30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|[*Java]()|Hard|-|
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/29.%20Divide%20Two%20Integers.md)|Medium|2019.03.14|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/28.%20Implement%20strStr().md)|Easy|2019.03.15|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/27.%20Remove%20Element.md)|Easy|2019.03.14|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)|Easy|2019.03.19|
-|25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[Java]()|Hard|-|
+|25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[*Java]()|Hard|-|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/24.%20Swap%20Nodes%20in%20Pairs.md)|Medium|2019.04.25|
-|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[Java]()|Hard|-|
+|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[*Java]()|Hard|-|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/22.%20Generate%20Parentheses.md)|Medium|2019.04.26|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/21.%20Merge%20Two%20Sorted%20Lists.md)|Easy|2019.04.25|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/20.%20Valid%20Parentheses.md)|Easy|2019.04.24|
