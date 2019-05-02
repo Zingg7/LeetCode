@@ -22,14 +22,14 @@
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/53.%20Maximum%20Subarray.md)|Easy|2019.03.29|
 |52|[N-Queens II]()|[Java]()|Hard|-|
 |51|[N-Queens]()|[Java]()|Hard|-|
-|50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[*Java]()|Medium|2019.03.27|
-|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[*Java]()|Medium|2019.0327|
+|50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/50.%20Pow(x%2C%20n).md)|Medium|2019.03.27|
+|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/49.%20Group%20Anagrams.md)|Medium|2019.0327|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/48.%20Rotate%20Image.md)|Medium|2019.03.27|
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/47.%20Permutations%20II.md)|Medium|2019.03.27|
 |46|[Permutations](https://leetcode.com/problems/permutations/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/46.%20Permutations.md)|Medium|2019.03.26|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[*Java]()|Hard|-|
-|44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|[*Java]()|Hard|-|
-|43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[*Java]()|Medium|2019.0|
+|44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|[Java]()|Hard|-|
+|43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/43.%20Multiply%20Strings.md)|Medium|2019.03.25|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[*Java]()|Hard|-|
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[*Java]()|Hard|-|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/40.%20Combination%20Sum%20II.md)|Medium|2019.03.21|
