@@ -3,6 +3,7 @@
 ## LeetCode Questions
 | # | Title | Solution | Difficulty | Date |
 |:-:|---|:-:|:-:|:-:|
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[*Java](https://github.com/Zingg7/LeetCode/blob/master/283.%20Move%20Zeroes.md)|Easy|2019.05.02|
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [Java](https://github.com/Zingg7/LeetCode/blob/master/131.%20Palindrome%20Partitioning.md)|Medium|2019.04.18|
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [Java](https://github.com/Zingg7/LeetCode/blob/master/130.%20Surrounded%20Regions.md)|Medium|2019.04.18|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Java](https://github.com/Zingg7/LeetCode/blob/master/125.%20Valid%20Palindrome.md)|Medium|2019.04.18|
@@ -14,11 +15,11 @@
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/81.%20Search%20in%20Rotated%20Sorted%20Array%20II.md)|Medium|2019.04|
 |60|[Permutation Sequence]()|[Java]()|Medium|2019.04.03|
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[Java]()|Medium|2019.04.02|
-|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Java]()|Easy|2019.04.02|
+|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/58.%20Length%20of%20Last%20Word.md)|Easy|2019.04.02|
 |57|[Insert Interval]()|[Java]()|Hard|-|
-|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Java]()|Medium|2019.04.02|
-|55|[Jump Game](https://leetcode.com/problems/jump-game/)|[Java]()|Medium|2019.03.29|
-|54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Java]()|Medium|2019.03.29|
+|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Java](https://github.com/Zingg7/LeetCode/edit/master/56.%20Merge%20Intervals.md)|Medium|2019.04.02|
+|55|[Jump Game](https://leetcode.com/problems/jump-game/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/55.%20Jump%20Game.md)|Medium|2019.03.29|
+|54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/54.%20Spiral%20Matrix.md)|Medium|2019.03.29|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/53.%20Maximum%20Subarray.md)|Easy|2019.03.29|
 |52|[N-Queens II]()|[Java]()|Hard|-|
 |51|[N-Queens]()|[Java]()|Hard|-|
@@ -99,3 +100,7 @@ Template:
 一个月做了60题，我的速度也忒慢了吧！哭唧唧<br>
 开始重头做了。说是做完132，看到hard跳看到treenode跳，最后只做了66…… 居然刚好一半？！<br>
 今天得整理一下
+
+05.02
+
+1~50所有非Hard都全部重做了一遍
