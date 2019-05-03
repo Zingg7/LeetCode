@@ -4,6 +4,7 @@
 | # | Title | Solution | Difficulty | Date |
 |:-:|---|:-:|:-:|:-:|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[*Java](https://github.com/Zingg7/LeetCode/blob/master/283.%20Move%20Zeroes.md)|Easy|2019.05.02|
+|162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/162.%20Find%20Peak%20Element.md)|Medium|2019.05.03|
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [Java](https://github.com/Zingg7/LeetCode/blob/master/131.%20Palindrome%20Partitioning.md)|Medium|2019.04.18|
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [Java](https://github.com/Zingg7/LeetCode/blob/master/130.%20Surrounded%20Regions.md)|Medium|2019.04.18|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Java](https://github.com/Zingg7/LeetCode/blob/master/125.%20Valid%20Palindrome.md)|Medium|2019.04.18|
@@ -88,6 +89,14 @@ Template:
 | 4 | LinkedList | [Click Me](https://github.com/Zingg7/LeetCode/blob/Knowledge-Points/-%20LinkedList.md)|2019.04.24|
 | 5 | HashMap | [Click Me](https://github.com/Zingg7/LeetCode/blob/Knowledge-Points/-%20HashMap.md)|2019.04.24|
 
+
+
+## Mock
+| Theme | Topic | Link | Date |
+|:-:|---|:-:|:-:|
+|Array|[26. Remove Duplicates from Sorted Array](https://github.com/Zingg7/LeetCode/blob/master/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)<br>[283. Move Zeroes](https://github.com/Zingg7/LeetCode/blob/master/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)|[Click Me](https://docs.qq.com/doc/DTWdRa3diR3VsdGZv?subDomain=300000000&localPadId=MgQkwbGultfo&id=DTWdRa3diR3VsdGZv)|2019.05.01|
+|Binary Search|[34. Find First and Last Position of Element in Sorted Array](https://github.com/Zingg7/LeetCode/blob/master/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md)<br>[35. Search Insert Position](https://github.com/Zingg7/LeetCode/blob/master/35.%20Search%20Insert%20Position.md)|[Click Me](https://docs.qq.com/doc/DUERubkZjY2NTV01Z)|2019.05.02|
+|Binary Search|[74. Search a 2D Matrix]()<br>[162. Find Peak Element](https://github.com/Zingg7/LeetCode/blob/master/162.%20Find%20Peak%20Element.md)|[Click Me](https://docs.qq.com/doc/DUGFHbk5xZ0VOWktL)|2019.05.03|
 
 04.16
 
