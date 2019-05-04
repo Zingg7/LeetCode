@@ -97,6 +97,7 @@ Template:
 |Array|[26. Remove Duplicates from Sorted Array](https://github.com/Zingg7/LeetCode/blob/master/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)<br>[283. Move Zeroes](https://github.com/Zingg7/LeetCode/blob/master/283.%20Move%20Zeroes.md)|[Click Me](https://docs.qq.com/doc/DTWdRa3diR3VsdGZv?subDomain=300000000&localPadId=MgQkwbGultfo&id=DTWdRa3diR3VsdGZv)|2019.05.01|
 |Binary Search|[34. Find First and Last Position of Element in Sorted Array](https://github.com/Zingg7/LeetCode/blob/master/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md)<br>[35. Search Insert Position](https://github.com/Zingg7/LeetCode/blob/master/35.%20Search%20Insert%20Position.md)|[Click Me](https://docs.qq.com/doc/DUERubkZjY2NTV01Z)|2019.05.02|
 |Binary Search|[74. Search a 2D Matrix]()<br>[162. Find Peak Element](https://github.com/Zingg7/LeetCode/blob/master/162.%20Find%20Peak%20Element.md)|[Click Me](https://docs.qq.com/doc/DUGFHbk5xZ0VOWktL)|2019.05.03|
+|Bianry Search|[33. Search in Rotated Sorted Array](https://github.com/Zingg7/LeetCode/blob/master/33.%20Search%20in%20Rotated%20Sorted%20Array.md)<br>[287. Find the Duplicate Number]() |[Click Me](https://docs.qq.com/doc/DUGl6T3FCWFhIaEt4)|2019.05.04|
 
 04.16
 
