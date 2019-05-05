@@ -3,7 +3,8 @@
 ## LeetCode Questions
 | # | Title | Solution | Difficulty | Date |
 |:-:|---|:-:|:-:|:-:|
-|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[*Java](https://github.com/Zingg7/LeetCode/blob/master/283.%20Move%20Zeroes.md)|Easy|2019.05.02|
+|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Java](https://github.com/Zingg7/LeetCode/edit/master/287.%20Find%20the%20Duplicate%20Number.md)|Medium|2019.05.04|
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/283.%20Move%20Zeroes.md)|Easy|2019.05.02|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/162.%20Find%20Peak%20Element.md)|Medium|2019.05.03|
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [Java](https://github.com/Zingg7/LeetCode/blob/master/131.%20Palindrome%20Partitioning.md)|Medium|2019.04.18|
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [Java](https://github.com/Zingg7/LeetCode/blob/master/130.%20Surrounded%20Regions.md)|Medium|2019.04.18|
