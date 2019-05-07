@@ -14,16 +14,15 @@ PriorityQueue是一个无界队列，但是初始的容量(实际是一个Object
 
 | Return | Method | Description | 
 | :-: | :-: | :-: | 
-
-|add(E e)|	添加元素|
-|clear()|	清空|
-|contains(Object o)|	检查是否包含当前参数元素|
-|offer(E e)|	添加元素|
-|peek()|	读取元素，（不删除）|
-|poll()|	取出元素，（删除）|
-|remove(Object o)|	删除指定元素|
-|size()|	返回长度|
-[PUT HERE]
+|boolean|add(E e)|	添加元素|
+|void|clear()|	清空|
+|boolean|contains(Object o)|	检查是否包含当前参数元素|
+|boolean|offer(E e)|	添加元素|
+|E|peek()|	读取元素，（不删除）|
+|E|poll()|	取出元素，（删除）|
+|E|remove(Object o)|	删除指定元素|
+|int|size()|	返回长度|
+|Object[]|	toArray() |返回一个包含此队列所有元素的数组|
 
 
 <br>
@@ -44,5 +43,5 @@ PriorityQueue优先级规则可以由我们根据具体需求而定制， 方式
 
 ## Refernce:
 
-[Java Queue系列之PriorityQueue](https://www.cnblogs.com/demingblog/p/6485193.html)
+[Java Queue系列之PriorityQueue](https://www.cnblogs.com/demingblog/p/6485193.html)<br>
 [Java中的集合Queue、LinkedList、PriorityQueue](https://www.cnblogs.com/be-forward-to-help-others/p/6825738.html)
