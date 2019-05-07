@@ -19,14 +19,14 @@ Collection<br>
 　　｜　　｜——EnumSet<br>
 　　｜　　｜——SortedSet——TreeSet<br>
 　　｜　　｜——HashSet——LinkedHashSet<br>
-　　｜——List：有序集合，元素可以重复<br>
+　　｜——[List](https://github.com/Zingg7/LeetCode/edit/Knowledge-Points/=%20List.md)：有序集合，元素可以重复<br>
 　　｜　　｜——[LinkedList](https://github.com/Zingg7/LeetCode/blob/Knowledge-Points/-%20LinkedList.md)<br>
 　　｜　　｜——ArrayList<br>
 　　｜　　｜——Vector<br>
 　　｜　　｜——[Stack](https://github.com/Zingg7/LeetCode/blob/Knowledge-Points/-%20Stack.md) <br>
 　　｜——Queue：队列<br>
 　　　　　｜——Deque<br>
-　　　　　｜——PriorityQueue<br>
+　　　　　｜——[PriorityQueue](https://github.com/Zingg7/LeetCode/edit/Knowledge-Points/PriorityQueue.md)<br>
 　
 
 ## Methods
