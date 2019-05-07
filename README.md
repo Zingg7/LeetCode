@@ -3,7 +3,7 @@
 ## LeetCode Questions
 | # | Title | Solution | Difficulty | Date |
 |:-:|---|:-:|:-:|:-:|
-|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Java](https://github.com/Zingg7/LeetCode/edit/master/287.%20Find%20the%20Duplicate%20Number.md)|Medium|2019.05.04|
+|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/287.%20Find%20the%20Duplicate%20Number.md)|Medium|2019.05.04|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/283.%20Move%20Zeroes.md)|Easy|2019.05.02|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/162.%20Find%20Peak%20Element.md)|Medium|2019.05.03|
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [Java](https://github.com/Zingg7/LeetCode/blob/master/131.%20Palindrome%20Partitioning.md)|Medium|2019.04.18|
@@ -14,12 +14,16 @@
 |120|[Triangle](https://leetcode.com/problems/triangle/) | [Java](https://github.com/Zingg7/LeetCode/blob/master/120.%20Triangle.md)|Medium|2019.04.17|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/118%26119.%20Pascal's%20Triangle(I%26II).md)|Easy|2019.04.17|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/118%26119.%20Pascal's%20Triangle(I%26II).md)|Easy|2019.04.17|
+|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/102.%20Binary%20Tree%20Level%20Order%20Traversal.md)|Medium|2019.05.06|
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/101.%20Symmetric%20Tree.md)|Easy|2019.05.07|
+|100|[Same Tree](https://leetcode.com/problems/same-tree/)|[Java]()|Medium|2019.0|
+|105|[]()|[Java]()|Medium|2019.0|
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/81.%20Search%20in%20Rotated%20Sorted%20Array%20II.md)|Medium|2019.04|
 |60|[Permutation Sequence]()|[Java]()|Medium|2019.04.03|
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[Java]()|Medium|2019.04.02|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/58.%20Length%20of%20Last%20Word.md)|Easy|2019.04.02|
 |57|[Insert Interval]()|[Java]()|Hard|-|
-|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Java](https://github.com/Zingg7/LeetCode/edit/master/56.%20Merge%20Intervals.md)|Medium|2019.04.02|
+|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/56.%20Merge%20Intervals.md)|Medium|2019.04.02|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/55.%20Jump%20Game.md)|Medium|2019.03.29|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/54.%20Spiral%20Matrix.md)|Medium|2019.03.29|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/53.%20Maximum%20Subarray.md)|Easy|2019.03.29|
