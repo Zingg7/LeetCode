@@ -3,7 +3,7 @@
 ## LeetCode Questions
 | # | Title | Solution | Difficulty | Date |
 |:-:|---|:-:|:-:|:-:|
-|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/submissions/)|[Java]|(https://github.com/Zingg7/LeetCode/blob/master/206.%20Reverse%20Linked%20List.md)|Easy|2019.05.09|
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/submissions/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/206.%20Reverse%20Linked%20List.md)|Easy|2019.05.09|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/287.%20Find%20the%20Duplicate%20Number.md)|Medium|2019.05.04|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/283.%20Move%20Zeroes.md)|Easy|2019.05.02|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/162.%20Find%20Peak%20Element.md)|Medium|2019.05.03|
