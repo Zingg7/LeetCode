@@ -3,6 +3,7 @@
 ## LeetCode Questions
 | # | Title | Solution | Difficulty | Date |
 |:-:|---|:-:|:-:|:-:|
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/submissions/)|[Java]|(https://github.com/Zingg7/LeetCode/blob/master/206.%20Reverse%20Linked%20List.md)|Easy|2019.05.09|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/287.%20Find%20the%20Duplicate%20Number.md)|Medium|2019.05.04|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/283.%20Move%20Zeroes.md)|Easy|2019.05.02|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/162.%20Find%20Peak%20Element.md)|Medium|2019.05.03|
@@ -18,6 +19,7 @@
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/101.%20Symmetric%20Tree.md)|Easy|2019.05.07|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)|[Java]()|Medium|2019.0|
 |105|[]()|[Java]()|Medium|2019.0|
+|96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/96.%20Unique%20Binary%20Search%20Trees.md)|Medium|2019.05.09|
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/81.%20Search%20in%20Rotated%20Sorted%20Array%20II.md)|Medium|2019.04|
 |60|[Permutation Sequence]()|[Java]()|Medium|2019.04.03|
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[Java]()|Medium|2019.04.02|
