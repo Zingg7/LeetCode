@@ -20,6 +20,9 @@
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)|[Java]()|Medium|2019.0|
 |105|[]()|[Java]()|Medium|2019.0|
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/96.%20Unique%20Binary%20Search%20Trees.md)|Medium|2019.05.09|
+|86|[Partition List](https://leetcode.com/problems/partition-list/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/86.%20Partition%20List.md)|Medium|2019.05.10|
+|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/82%2683.%20Remove%20Duplicates%20from%20Sorted%20List%20II%26I.md)|Easy|2019.05.10|
+|82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/82%2683.%20Remove%20Duplicates%20from%20Sorted%20List%20II%26I.md)|Medium|2019.05.10|
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/81.%20Search%20in%20Rotated%20Sorted%20Array%20II.md)|Medium|2019.04|
 |60|[Permutation Sequence]()|[Java]()|Medium|2019.04.03|
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[Java]()|Medium|2019.04.02|
