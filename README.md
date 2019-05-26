@@ -116,10 +116,18 @@ Template:
 |LinkedList|[? 61. Rotate List]()<br>[? 143. Reorder List]()|[Click Me](https://docs.qq.com/doc/DTUR1dndqclZLTllL?opendocxfrom=admin)|2019.05.12|
 |LinkedList|[24. Swap Nodes in Pairs](https://github.com/Zingg7/LeetCode/blob/master/24.%20Swap%20Nodes%20in%20Pairs.md)<br>[? 148. Sort List]()|[Click Me](https://docs.qq.com/doc/DTWVGTmZQWkFlVFpW?opendocxfrom=admin)|2019.05.13|
 |HashTable|[3. Longest Substring Without Repeating Characters](https://github.com/Zingg7/LeetCode/blob/master/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)<br>[49. Group Anagrams](https://github.com/Zingg7/LeetCode/blob/master/49.%20Group%20Anagrams.md)|[Click Me](https://docs.qq.com/doc/DUGRTVWthUnJpSlRT?opendocxfrom=admin)|2019.05.14|
-|HashTable|[]()<br>[]()|[Click Me](https://docs.qq.com/doc/DUGZRS3Z2ZmdDc3JC?opendocxfrom=admin)|2019.05.15|
-|HashTable|[]()<br>[]()|[Click Me]()|2019.05.|
-|HashTable|[]()<br>[]()|[Click Me]()|2019.05.|
-|HashTable|[]()<br>[]()|[Click Me]()|2019.05.|
+|HashTable|[18. 4Sum](https://github.com/Zingg7/LeetCode/blob/master/18.%204Sum.md)<br>[36. Valid Sodoku](https://github.com/Zingg7/LeetCode/blob/master/36.%20Valid%20Sudoku.md)|[Click Me](https://docs.qq.com/doc/DUGZRS3Z2ZmdDc3JC?opendocxfrom=admin)|2019.05.15|
+|HashTable|[? 692. Top K Frequent Words]()<br>[? 138. Copy List with Random Pointer]()|[Click Me](https://docs.qq.com/doc/DWERDWUxHRU5OakRy?opendocxfrom=admin)|2019.05.16|
+|HashTable|[706. Design HashMap](https://github.com/Zingg7/LeetCode/blob/master/705%26706.%20Design%20HashSet%26HashMap.md)<br>[451. Sort Characters By Frequency](https://github.com/Zingg7/LeetCode/blob/master/451.%20Sort%20Characters%20By%20Frequency.md)|[Click Me](https://docs.qq.com/doc/DTWVlc3d2Y1N5RlZZ?opendocxfrom=admin)|2019.05.17|
+|String|[? 76. Minimum Window Substring]()|[Click Me](https://docs.qq.com/doc/DUEVwVU1BaVJBVlJs?opendocxfrom=admin)|2019.05.19|
+|String|[43. Multiply Strings](https://github.com/Zingg7/LeetCode/blob/master/43.%20Multiply%20Strings.md)<br>[? 678. Valid Parenthesis String]()|[Click Me](https://docs.qq.com/doc/DY01FZHJLZ1p0eU9D?opendocxfrom=admin)|2019.05.20|
+|String|[17. Letter Combinations of a Phone Number](https://github.com/Zingg7/LeetCode/blob/master/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.md)<br>[? 205. Isomorphic Strings]()|[Click Me](https://docs.qq.com/doc/DWGJmeVBZd1V5SkpR?opendocxfrom=admin)|2019.05.21|
+|String|[? 151. Reverse Words in a String]()<br>[? 438. Find All Anagrams in a String]()|[Click Me](https://docs.qq.com/doc/DTWx4TEF0ckZVVnVP?opendocxfrom=admin)|2019.05.22|
+|String|[? 214. Shortest Palindrome]()|[Click Me](https://docs.qq.com/doc/DY2NucFhZYlNlZ3lI?opendocxfrom=admin)|2019.05.23|
+|String|[5. Longest Palindromic Substring](https://github.com/Zingg7/LeetCode/blob/master/5.%20Longest%20Palindromic%20Substring.md)<br>[? 316. Remove Duplicate Letters]()|[Click Me](https://docs.qq.com/doc/DTXZseEZFaUZ5WHN4?opendocxfrom=admin)|2019.05.24|
+|DFS&BFS|[? 51. N-Queens]()<br>[? 200. Number of islands]()|[Click Me](https://docs.qq.com/doc/DUFdYbWh4UmZzdFB0?opendocxfrom=admin)|2019.05.26|
+|DFS&BFS|[127. Word Ladder](https://github.com/Zingg7/LeetCode/blob/master/127.%20Word%20Ladder.md)<br>[]()|[Click Me](https://docs.qq.com/doc/DTXlNVW5YdERyTVZP?opendocxfrom=admin)|2019.05.27|
+|DFS&BFS|[]()<br>[]()|[Click Me]()|2019.05.|
 
 
 
