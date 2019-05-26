@@ -104,10 +104,24 @@ Template:
 ## Mock
 | Theme | Topic | Link | Date |
 |:-:|---|:-:|:-:|
-|Array|[26. Remove Duplicates from Sorted Array](https://github.com/Zingg7/LeetCode/blob/master/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)<br>[283. Move Zeroes](https://github.com/Zingg7/LeetCode/blob/master/283.%20Move%20Zeroes.md)|[Click Me](https://docs.qq.com/doc/DTWdRa3diR3VsdGZv?subDomain=300000000&localPadId=MgQkwbGultfo&id=DTWdRa3diR3VsdGZv)|2019.05.01|
-|Binary Search|[34. Find First and Last Position of Element in Sorted Array](https://github.com/Zingg7/LeetCode/blob/master/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md)<br>[35. Search Insert Position](https://github.com/Zingg7/LeetCode/blob/master/35.%20Search%20Insert%20Position.md)|[Click Me](https://docs.qq.com/doc/DUERubkZjY2NTV01Z)|2019.05.02|
-|Binary Search|[74. Search a 2D Matrix]()<br>[162. Find Peak Element](https://github.com/Zingg7/LeetCode/blob/master/162.%20Find%20Peak%20Element.md)|[Click Me](https://docs.qq.com/doc/DUGFHbk5xZ0VOWktL)|2019.05.03|
-|Bianry Search|[33. Search in Rotated Sorted Array](https://github.com/Zingg7/LeetCode/blob/master/33.%20Search%20in%20Rotated%20Sorted%20Array.md)<br>[287. Find the Duplicate Number]() |[Click Me](https://docs.qq.com/doc/DUGl6T3FCWFhIaEt4)|2019.05.04|
+|Array|[26. Remove Duplicates from Sorted Array](https://github.com/Zingg7/LeetCode/blob/master/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)<br>[283. Move Zeroes](https://github.com/Zingg7/LeetCode/blob/master/283.%20Move%20Zeroes.md)|[Click Me](https://docs.qq.com/doc/DTWdRa3diR3VsdGZv?opendocxfrom=admin)|2019.05.01|
+|Binary Search|[34. Find First and Last Position of Element in Sorted Array](https://github.com/Zingg7/LeetCode/blob/master/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md)<br>[35. Search Insert Position](https://github.com/Zingg7/LeetCode/blob/master/35.%20Search%20Insert%20Position.md)|[Click Me](https://docs.qq.com/doc/DUERubkZjY2NTV01Z?opendocxfrom=admin)|2019.05.02|
+|Binary Search|[74. Search a 2D Matrix]()<br>[162. Find Peak Element](https://github.com/Zingg7/LeetCode/blob/master/162.%20Find%20Peak%20Element.md)|[Click Me](https://docs.qq.com/doc/DUGFHbk5xZ0VOWktL?opendocxfrom=admin)|2019.05.03|
+|Binary Search|[33. Search in Rotated Sorted Array](https://github.com/Zingg7/LeetCode/blob/master/33.%20Search%20in%20Rotated%20Sorted%20Array.md)<br>[287. Find the Duplicate Number]() |[Click Me](https://docs.qq.com/doc/DUGl6T3FCWFhIaEt4?opendocxfrom=admin)|2019.05.04|
+|Tree|[102. Binary Tree Level Order Traversal](https://github.com/Zingg7/LeetCode/blob/master/102.%20Binary%20Tree%20Level%20Order%20Traversal.md)<br>[? 105. Construct Binary Tree from Preorder and Inorder Traversal]()|[Click Me](https://docs.qq.com/doc/DUFBSTk1iZmhSckN0?opendocxfrom=admin)|2019.05.06|
+|Tree|[100. Same Tree](https://github.com/Zingg7/LeetCode/blob/master/100.%20Same%20Tree.md)<br>[101. Symmetric Tree](https://github.com/Zingg7/LeetCode/blob/master/101.%20Symmetric%20Tree.md)|[Click Me](https://docs.qq.com/doc/DUEJ6RGl5QldiWHp0?opendocxfrom=admin)|2019.05.07|
+|Tree|[? 98. Validate Binary Search Tree]()<br>[? 199. Binary Tree Right Side View]()|[Click Me](https://docs.qq.com/doc/DUG5xWlJLYlpoWFBU?opendocxfrom=admin)|2019.05.08|
+|Tree<br>LinkedList|[96. Unique Binary Search Trees](https://github.com/Zingg7/LeetCode/blob/master/96.%20Unique%20Binary%20Search%20Trees.md)<br>[206. Reverse Linked List](https://github.com/Zingg7/LeetCode/blob/master/206.%20Reverse%20Linked%20List.md)|[Click Me](https://docs.qq.com/doc/DUFFFZFdhbmpGT0xr?opendocxfrom=admin)|2019.05.09|
+|LinkedList|[82. Remove Duplicates from Sorted List II](https://github.com/Zingg7/LeetCode/blob/master/82%2683.%20Remove%20Duplicates%20from%20Sorted%20List%20II%26I.md)<br>[86. Partition List](https://github.com/Zingg7/LeetCode/blob/master/86.%20Partition%20List.md)|[Click Me](https://docs.qq.com/doc/DUEpEUElabGJZc1Nx?opendocxfrom=admin)|2019.05.10|
+|LinkedList|[? 61. Rotate List]()<br>[? 143. Reorder List]()|[Click Me](https://docs.qq.com/doc/DTUR1dndqclZLTllL?opendocxfrom=admin)|2019.05.12|
+|LinkedList|[24. Swap Nodes in Pairs](https://github.com/Zingg7/LeetCode/blob/master/24.%20Swap%20Nodes%20in%20Pairs.md)<br>[? 148. Sort List]()|[Click Me](https://docs.qq.com/doc/DTWVGTmZQWkFlVFpW?opendocxfrom=admin)|2019.05.13|
+|HashTable|[3. Longest Substring Without Repeating Characters](https://github.com/Zingg7/LeetCode/blob/master/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)<br>[49. Group Anagrams](https://github.com/Zingg7/LeetCode/blob/master/49.%20Group%20Anagrams.md)|[Click Me](https://docs.qq.com/doc/DUGRTVWthUnJpSlRT?opendocxfrom=admin)|2019.05.14|
+|HashTable|[]()<br>[]()|[Click Me](https://docs.qq.com/doc/DUGZRS3Z2ZmdDc3JC?opendocxfrom=admin)|2019.05.15|
+|HashTable|[]()<br>[]()|[Click Me]()|2019.05.|
+|HashTable|[]()<br>[]()|[Click Me]()|2019.05.|
+|HashTable|[]()<br>[]()|[Click Me]()|2019.05.|
+
+
 
 04.16
 
