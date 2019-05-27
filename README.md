@@ -3,9 +3,10 @@
 ## LeetCode Questions
 | # | Title | Solution | Difficulty | Date |
 |:-:|---|:-:|:-:|:-:|
-|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/submissions/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/206.%20Reverse%20Linked%20List.md)|Easy|2019.05.09|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/287.%20Find%20the%20Duplicate%20Number.md)|Medium|2019.05.04|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/283.%20Move%20Zeroes.md)|Easy|2019.05.02|
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/submissions/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/206.%20Reverse%20Linked%20List.md)|Easy|2019.05.09|
+|200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/200.%20Number%20of%20Islands.md)|Medium|2019.05.27|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/162.%20Find%20Peak%20Element.md)|Medium|2019.05.03|
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [Java](https://github.com/Zingg7/LeetCode/blob/master/131.%20Palindrome%20Partitioning.md)|Medium|2019.04.18|
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [Java](https://github.com/Zingg7/LeetCode/blob/master/130.%20Surrounded%20Regions.md)|Medium|2019.04.18|
@@ -33,7 +34,7 @@
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/54.%20Spiral%20Matrix.md)|Medium|2019.03.29|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/53.%20Maximum%20Subarray.md)|Easy|2019.03.29|
 |52|[N-Queens II]()|[Java]()|Hard|-|
-|51|[N-Queens]()|[Java]()|Hard|-|
+|51|[N-Queens](https://leetcode.com/problems/n-queens/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/51.%20N-Queens.md)|Hard|2019.05.27|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/50.%20Pow(x%2C%20n).md)|Medium|2019.03.27|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/49.%20Group%20Anagrams.md)|Medium|2019.0327|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/48.%20Rotate%20Image.md)|Medium|2019.03.27|
