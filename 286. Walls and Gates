@@ -1,0 +1,59 @@
+# 286. Walls and Gates
+
+## Description
+
+> Link: https://leetcode.com/problems/walls-and-gates/
+
+```
+You are given a m x n 2D grid initialized with these three possible values.
+
+-1 - A wall or an obstacle.
+0 - A gate.
+INF - Infinity means an empty room. We use the value 231 - 1 = 2147483647 to represent INF as you may assume 
+that the distance to a gate is less than 2147483647.
+Fill each empty room with the distance to its nearest gate. If it is impossible to reach a gate, it should be 
+filled with INF.
+
+For example, given the 2D grid:
+INF  -1  0  INF
+INF INF INF  -1
+INF  -1 INF  -1
+  0  -1 INF INF
+  
+After running your function, the 2D grid should be:
+  3  -1   0   1
+  2   2   1  -1
+  1  -1   2  -1
+  0  -1   3   4
+  
+寻找每一个空房间到最近的门的距离。若无法达到，则填充 INFINITY。
+
+```
+
+
+## Solution
+
+> Related Topics: DFS, BFS
+
+需要寻找离最近的门的距离，那么我们可以搜寻grid中所有的门，每找到一个门后，以门为中心进行DFS/BFS遍历，来到一个可达到的房间，记录下当前的距离。
+
+首先来看一下DFS的操作：
+遍历整个数组，每当找到一个门，就执行一个dfs操作。也就是说，从起点开始，我们来到它每一个可能到达的房间。在dfs中，我们需要传递一个参数count，代表目前行走的距离，每当我们向四个方向行走一步时，将距离+1即可。同时我们需要传递原数组rooms，若比原来小，则可以更新它的值。<br>
+在dfs函数中，我们首先要检查当前是否在有效范围内，即不超过边界且不为障碍物。若目前位置有效，那么就可以记录下当前的步长以便于传递给下一个位置，再继续遍历附近所有的房间。<br>
+遍历完成后即可。
+
+再来看看BFS的操作：
+BFS需要借助一个Queue来实现，我们首先将所有门的位置放入Queue，然后将Queue中的值poll出来，查找它上下左右的房间是否为空房间。为空房间时，则更新其与门的距离，距离获得的原理和DFS是一样的。每次更新距离后，都将其放入Queue中，重复操作。
+在BFS中，由于每次新的房间都被放在queue的最后，所以实际上Queue中房间对应的值必然是是呈上升趋势的。因此每次只需要检查当前遍历的房间对应的步长是否为空即可。
+
+DFS与BFS的时间复杂度都是O(m*n)，但是实际上DFS遍历了整个图k遍(k为数组中门的个数)，而BFS值遍历了1遍。所以还是BFS更优一些，运行时间也的确更短一点~
+
+
+## Code
+
+```java
+
+```
+
+
+## Submission details
