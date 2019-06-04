@@ -107,7 +107,7 @@ Template:
 |:-:|---|:-:|:-:|
 |Array|[26. Remove Duplicates from Sorted Array](https://github.com/Zingg7/LeetCode/blob/master/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)<br>[283. Move Zeroes](https://github.com/Zingg7/LeetCode/blob/master/283.%20Move%20Zeroes.md)|[Click Me](https://docs.qq.com/doc/DTWdRa3diR3VsdGZv?opendocxfrom=admin)|2019.05.01|
 |Binary Search|[34. Find First and Last Position of Element in Sorted Array](https://github.com/Zingg7/LeetCode/blob/master/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md)<br>[35. Search Insert Position](https://github.com/Zingg7/LeetCode/blob/master/35.%20Search%20Insert%20Position.md)|[Click Me](https://docs.qq.com/doc/DUERubkZjY2NTV01Z?opendocxfrom=admin)|2019.05.02|
-|Binary Search|[74. Search a 2D Matrix]()<br>[162. Find Peak Element](https://github.com/Zingg7/LeetCode/blob/master/162.%20Find%20Peak%20Element.md)|[Click Me](https://docs.qq.com/doc/DUGFHbk5xZ0VOWktL?opendocxfrom=admin)|2019.05.03|
+|Binary Search|[? 74. Search a 2D Matrix]()<br>[162. Find Peak Element](https://github.com/Zingg7/LeetCode/blob/master/162.%20Find%20Peak%20Element.md)|[Click Me](https://docs.qq.com/doc/DUGFHbk5xZ0VOWktL?opendocxfrom=admin)|2019.05.03|
 |Binary Search|[33. Search in Rotated Sorted Array](https://github.com/Zingg7/LeetCode/blob/master/33.%20Search%20in%20Rotated%20Sorted%20Array.md)<br>[287. Find the Duplicate Number]() |[Click Me](https://docs.qq.com/doc/DUGl6T3FCWFhIaEt4?opendocxfrom=admin)|2019.05.04|
 |Tree|[102. Binary Tree Level Order Traversal](https://github.com/Zingg7/LeetCode/blob/master/102.%20Binary%20Tree%20Level%20Order%20Traversal.md)<br>[? 105. Construct Binary Tree from Preorder and Inorder Traversal]()|[Click Me](https://docs.qq.com/doc/DUFBSTk1iZmhSckN0?opendocxfrom=admin)|2019.05.06|
 |Tree|[100. Same Tree](https://github.com/Zingg7/LeetCode/blob/master/100.%20Same%20Tree.md)<br>[101. Symmetric Tree](https://github.com/Zingg7/LeetCode/blob/master/101.%20Symmetric%20Tree.md)|[Click Me](https://docs.qq.com/doc/DUEJ6RGl5QldiWHp0?opendocxfrom=admin)|2019.05.07|
@@ -128,7 +128,14 @@ Template:
 |String|[5. Longest Palindromic Substring](https://github.com/Zingg7/LeetCode/blob/master/5.%20Longest%20Palindromic%20Substring.md)<br>[? 316. Remove Duplicate Letters]()|[Click Me](https://docs.qq.com/doc/DTXZseEZFaUZ5WHN4?opendocxfrom=admin)|2019.05.24|
 |DFS&BFS|[? 51. N-Queens]()<br>[? 200. Number of islands]()|[Click Me](https://docs.qq.com/doc/DUFdYbWh4UmZzdFB0?opendocxfrom=admin)|2019.05.26|
 |DFS&BFS|[127. Word Ladder](https://github.com/Zingg7/LeetCode/blob/master/127.%20Word%20Ladder.md)<br>[]()|[Click Me](https://docs.qq.com/doc/DTXlNVW5YdERyTVZP?opendocxfrom=admin)|2019.05.27|
-|DFS&BFS|[]()<br>[]()|[Click Me]()|2019.05.|
+|DFS&BFS|[? 126. Word Ladder II]()|[Click Me](https://docs.qq.com/doc/DWENOTktUSlZqdkJD?opendocxfrom=admin)|2019.05.28|
+|DFS&BFS|[? 337. House Robber III]()<br>[? 394. Decode String]()|[Click Me](https://docs.qq.com/doc/DVkJPTnlhZnlqZVFp?opendocxfrom=admin)|2019.05.29|
+|DFS&BFS|[286. Walls and Gates](https://github.com/Zingg7/LeetCode/blob/master/286.%20Walls%20and%20Gates.md)<br>[? 841. Keys and Rooms]()|[Click Me](https://docs.qq.com/doc/DTWltd0p4bGJySHRr?opendocxfrom=admin)|2019.05.30|
+|DFS&BFS|[130.Surrounded Regions](https://github.com/Zingg7/LeetCode/blob/master/130.%20Surrounded%20Regions.md)<br>[? 490. The Maze]()|[Click Me](https://docs.qq.com/doc/DVlFQTkdkT2lvRXNt?opendocxfrom=admin)|2019.05.31|
+|Divide and Conquer|[? 215. Kth Largest Element in an Array]()<br>[? 240. Search a 2D Matrix II]()|[Click Me](https://docs.qq.com/doc/DUGRSbHRua1JySWJp?opendocxfrom=admin)|2019.06.02|
+|Divide and Conquer|[? 139. Word Break]()<br>[? 241. Different Ways to Add Parentheses]()|[Click Me](https://docs.qq.com/doc/DWFdTeWlFdmVWek1P?opendocxfrom=admin)|2019.06.03|
+|Stack|[? 739. Daily Temperatures]()<br>[]()|[Click Me]()|2019.06.|
+
 
 
 
