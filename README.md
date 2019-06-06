@@ -139,7 +139,7 @@ Template:
 |Divide and Conquer|[? 139. Word Break]()<br>[? 241. Different Ways to Add Parentheses]()|[Click Me](https://docs.qq.com/doc/DWFdTeWlFdmVWek1P?opendocxfrom=admin)|2019.06.03|
 |Stack|[? 739. Daily Temperatures]()<br>[? 946. Validate Stack Sequences]()|[Click Me]()|2019.06.04|
 |Stack|[? 173. Binary Search Tree Iterator]()<br>[? 853. Car Fleet]()|[Click Me](https://docs.qq.com/doc/DUFRaa05rdHh2cHZ6?opendocxfrom=admin)|2019.06.05|
-|Stack|[? 42. Trapping Rain Water](https://github.com/Zingg7/LeetCode/blob/master/42.%20Trapping%20Rain%20Water.md)<br>[? 529. Minesweeper](https://github.com/Zingg7/LeetCode/blob/master/529.%20Minesweeper.md)|[Click Me](https://docs.qq.com/doc/DTU16ZWdTZUFlcW1E?opendocxfrom=admin)|2019.06.06|
+|Stack|[42. Trapping Rain Water](https://github.com/Zingg7/LeetCode/blob/master/42.%20Trapping%20Rain%20Water.md)<br>[529. Minesweeper](https://github.com/Zingg7/LeetCode/blob/master/529.%20Minesweeper.md)|[Click Me](https://docs.qq.com/doc/DTU16ZWdTZUFlcW1E?opendocxfrom=admin)|2019.06.06|
 |Stack|[? ]()<br>[?]()|[Click Me]()|2019.06.|
 
 
@@ -157,6 +157,12 @@ Template:
 开始重头做了。说是做完132，看到hard跳看到treenode跳，最后只做了66…… 居然刚好一半？！<br>
 今天得整理一下
 
+
 05.02
 
 1~50所有非Hard都全部重做了一遍
+
+
+06.06
+
+5月病结束了，重新开始！！
