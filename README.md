@@ -3,6 +3,7 @@
 ## LeetCode Questions
 | # | Title | Solution | Difficulty | Date |
 |:-:|---|:-:|:-:|:-:|
+|529|[Minesweeper](https://leetcode.com/problems/minesweeper/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/529.%20Minesweeper.md)|Medium|2019.06.06|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/287.%20Find%20the%20Duplicate%20Number.md)|Medium|2019.05.04|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/283.%20Move%20Zeroes.md)|Easy|2019.05.02|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/240.%20Search%20a%202D%20Matrix%20II.md)|Medium|2019.06.02|
@@ -45,7 +46,7 @@
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[*Java]()|Hard|-|
 |44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|[Java]()|Hard|-|
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/43.%20Multiply%20Strings.md)|Medium|2019.03.25|
-|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[*Java]()|Hard|-|
+|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/42.%20Trapping%20Rain%20Water.md)|Hard|2019.06.06|
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[*Java]()|Hard|-|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/40.%20Combination%20Sum%20II.md)|Medium|2019.03.21|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/39.%20Combination%20Sum.md)|Medium|2019.03.21|
@@ -136,7 +137,10 @@ Template:
 |DFS&BFS|[130.Surrounded Regions](https://github.com/Zingg7/LeetCode/blob/master/130.%20Surrounded%20Regions.md)<br>[? 490. The Maze]()|[Click Me](https://docs.qq.com/doc/DVlFQTkdkT2lvRXNt?opendocxfrom=admin)|2019.05.31|
 |Divide and Conquer|[? 215. Kth Largest Element in an Array]()<br>[240. Search a 2D Matrix II](https://github.com/Zingg7/LeetCode/blob/master/240.%20Search%20a%202D%20Matrix%20II.md)|[Click Me](https://docs.qq.com/doc/DUGRSbHRua1JySWJp?opendocxfrom=admin)|2019.06.02|
 |Divide and Conquer|[? 139. Word Break]()<br>[? 241. Different Ways to Add Parentheses]()|[Click Me](https://docs.qq.com/doc/DWFdTeWlFdmVWek1P?opendocxfrom=admin)|2019.06.03|
-|Stack|[? 739. Daily Temperatures]()<br>[]()|[Click Me]()|2019.06.|
+|Stack|[? 739. Daily Temperatures]()<br>[? 946. Validate Stack Sequences]()|[Click Me]()|2019.06.04|
+|Stack|[? 173. Binary Search Tree Iterator]()<br>[? 853. Car Fleet]()|[Click Me](https://docs.qq.com/doc/DUFRaa05rdHh2cHZ6?opendocxfrom=admin)|2019.06.05|
+|Stack|[? 42. Trapping Rain Water](https://github.com/Zingg7/LeetCode/blob/master/42.%20Trapping%20Rain%20Water.md)<br>[? 529. Minesweeper](https://github.com/Zingg7/LeetCode/blob/master/529.%20Minesweeper.md)|[Click Me](https://docs.qq.com/doc/DTU16ZWdTZUFlcW1E?opendocxfrom=admin)|2019.06.06|
+|Stack|[? ]()<br>[?]()|[Click Me]()|2019.06.|
 
 
 
