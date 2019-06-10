@@ -7,6 +7,7 @@
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/287.%20Find%20the%20Duplicate%20Number.md)|Medium|2019.05.04|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/283.%20Move%20Zeroes.md)|Easy|2019.05.02|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/240.%20Search%20a%202D%20Matrix%20II.md)|Medium|2019.06.02|
+|212|[Word Search II](https://leetcode.com/problems/word-search-ii/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/212.%20Word%20Seach%20II.md)|Hard|2019.06.10|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/submissions/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/206.%20Reverse%20Linked%20List.md)|Easy|2019.05.09|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/200.%20Number%20of%20Islands.md)|Medium|2019.05.27|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/162.%20Find%20Peak%20Element.md)|Medium|2019.05.03|
@@ -27,6 +28,7 @@
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/82%2683.%20Remove%20Duplicates%20from%20Sorted%20List%20II%26I.md)|Easy|2019.05.10|
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/82%2683.%20Remove%20Duplicates%20from%20Sorted%20List%20II%26I.md)|Medium|2019.05.10|
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/81.%20Search%20in%20Rotated%20Sorted%20Array%20II.md)|Medium|2019.04.12|
+|79|[Word Search](https://leetcode.com/problems/word-search/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/79.%20Word%20Search.md)|Medium|2019.04.12|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/74.%20Search%20a%202D%20Matrix.md)|Medium|2019.04.11|
 |60|[Permutation Sequence]()|[Java]()|Medium|2019.04.03|
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[Java]()|Medium|2019.04.02|
@@ -140,7 +142,10 @@ Template:
 |Stack|[? 739. Daily Temperatures]()<br>[? 946. Validate Stack Sequences]()|[Click Me]()|2019.06.04|
 |Stack|[? 173. Binary Search Tree Iterator]()<br>[? 853. Car Fleet]()|[Click Me](https://docs.qq.com/doc/DUFRaa05rdHh2cHZ6?opendocxfrom=admin)|2019.06.05|
 |Stack|[42. Trapping Rain Water](https://github.com/Zingg7/LeetCode/blob/master/42.%20Trapping%20Rain%20Water.md)<br>[529. Minesweeper](https://github.com/Zingg7/LeetCode/blob/master/529.%20Minesweeper.md)|[Click Me](https://docs.qq.com/doc/DTU16ZWdTZUFlcW1E?opendocxfrom=admin)|2019.06.06|
-|Stack|[? ]()<br>[?]()|[Click Me]()|2019.06.|
+|Stack|[? 84. Largest Rectangle in Histogram](https://github.com/Zingg7/LeetCode/blob/master/84.%20Largest%20Rectangle%20in%20Histogram)|[Click Me](https://docs.qq.com/doc/DRGZWS0puaWVVY2pJ?opendocxfrom=admin)|2019.06.07|
+|Backtracking|[? 78. Subsets]()|[Click Me](https://docs.qq.com/doc/DVlBDaFpNdll1dHFS?opendocxfrom=admin)|2019.06.09|
+|Backtracking|[79. Word Search](https://github.com/Zingg7/LeetCode/blob/master/79.%20Word%20Search.md)<br>[? 212. Word Search II](https://github.com/Zingg7/LeetCode/blob/master/212.%20Word%20Seach%20II.md)|[Click Me](https://docs.qq.com/doc/DTW1reFBZUWxQWnJl?opendocxfrom=admin)|2019.06.10|
+||[? ]()<br>[?]()|[Click Me]()|2019.06.|
 
 
 
