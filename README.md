@@ -3,8 +3,11 @@
 ## LeetCode Questions
 | # | Title | Solution | Difficulty | Date |
 |:-:|---|:-:|:-:|:-:|
+|706|[Design HashMap](https://leetcode.com/problems/design-hashmap/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/705%26706.%20Design%20HashSet%26HashMap.md)|Easy|2019.05.17|
+|705|[Design HashSet](https://leetcode.com/problems/design-hashset/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/705%26706.%20Design%20HashSet%26HashMap.md)|Easy|2019.05.17|
 |529|[Minesweeper](https://leetcode.com/problems/minesweeper/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/529.%20Minesweeper.md)|Medium|2019.06.06|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/287.%20Find%20the%20Duplicate%20Number.md)|Medium|2019.05.04|
+|286|[Walls and Gates](https://leetcode.com/problems/walls-and-gates/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/286.%20Walls%20and%20Gates.md)|Medium|2019.05.30|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/283.%20Move%20Zeroes.md)|Easy|2019.05.02|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/240.%20Search%20a%202D%20Matrix%20II.md)|Medium|2019.06.02|
 |212|[Word Search II](https://leetcode.com/problems/word-search-ii/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/212.%20Word%20Seach%20II.md)|Hard|2019.06.10|
@@ -13,16 +16,17 @@
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/162.%20Find%20Peak%20Element.md)|Medium|2019.05.03|
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [Java](https://github.com/Zingg7/LeetCode/blob/master/131.%20Palindrome%20Partitioning.md)|Medium|2019.04.18|
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [Java](https://github.com/Zingg7/LeetCode/blob/master/130.%20Surrounded%20Regions.md)|Medium|2019.04.18|
-|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Java](https://github.com/Zingg7/LeetCode/blob/master/125.%20Valid%20Palindrome.md)|Medium|2019.04.18|
+|127|[Word Ladder](https://leetcode.com/problems/word-ladder/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/127.%20Word%20Ladder.md)|Medium|2019.05.27|
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/125.%20Valid%20Palindrome.md)|Medium|2019.04.18|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Java](https://github.com/Zingg7/LeetCode/blob/master/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md)|Easy|2019.04.17|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Java](https://github.com/Zingg7/LeetCode/blob/master/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)|Easy|2019.04.17|
 |120|[Triangle](https://leetcode.com/problems/triangle/) | [Java](https://github.com/Zingg7/LeetCode/blob/master/120.%20Triangle.md)|Medium|2019.04.17|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/118%26119.%20Pascal's%20Triangle(I%26II).md)|Easy|2019.04.17|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/118%26119.%20Pascal's%20Triangle(I%26II).md)|Easy|2019.04.17|
+|105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.md)|Medium|2019.05.06|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/102.%20Binary%20Tree%20Level%20Order%20Traversal.md)|Medium|2019.05.06|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/101.%20Symmetric%20Tree.md)|Easy|2019.05.07|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)|[Java]()|Medium|2019.0|
-|105|[]()|[Java]()|Medium|2019.0|
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/96.%20Unique%20Binary%20Search%20Trees.md)|Medium|2019.05.09|
 |86|[Partition List](https://leetcode.com/problems/partition-list/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/86.%20Partition%20List.md)|Medium|2019.05.10|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Java](https://github.com/Zingg7/LeetCode/blob/master/82%2683.%20Remove%20Duplicates%20from%20Sorted%20List%20II%26I.md)|Easy|2019.05.10|
@@ -144,7 +148,7 @@ Template:
 |Stack|[42. Trapping Rain Water](https://github.com/Zingg7/LeetCode/blob/master/42.%20Trapping%20Rain%20Water.md)<br>[529. Minesweeper](https://github.com/Zingg7/LeetCode/blob/master/529.%20Minesweeper.md)|[Click Me](https://docs.qq.com/doc/DTU16ZWdTZUFlcW1E?opendocxfrom=admin)|2019.06.06|
 |Stack|[? 84. Largest Rectangle in Histogram](https://github.com/Zingg7/LeetCode/blob/master/84.%20Largest%20Rectangle%20in%20Histogram)|[Click Me](https://docs.qq.com/doc/DRGZWS0puaWVVY2pJ?opendocxfrom=admin)|2019.06.07|
 |Backtracking|[? 78. Subsets]()|[Click Me](https://docs.qq.com/doc/DVlBDaFpNdll1dHFS?opendocxfrom=admin)|2019.06.09|
-|Backtracking|[79. Word Search](https://github.com/Zingg7/LeetCode/blob/master/79.%20Word%20Search.md)<br>[? 212. Word Search II](https://github.com/Zingg7/LeetCode/blob/master/212.%20Word%20Seach%20II.md)|[Click Me](https://docs.qq.com/doc/DTW1reFBZUWxQWnJl?opendocxfrom=admin)|2019.06.10|
+|Backtracking|[79. Word Search](https://github.com/Zingg7/LeetCode/blob/master/79.%20Word%20Search.md)<br>[212. Word Search II](https://github.com/Zingg7/LeetCode/blob/master/212.%20Word%20Search%20II.md)|[Click Me](https://docs.qq.com/doc/DTW1reFBZUWxQWnJl?opendocxfrom=admin)|2019.06.10|
 ||[? ]()<br>[?]()|[Click Me]()|2019.06.|
 
 
