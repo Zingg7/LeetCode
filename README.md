@@ -148,8 +148,13 @@ Template:
 |Stack|[42. Trapping Rain Water](https://github.com/Zingg7/LeetCode/blob/master/42.%20Trapping%20Rain%20Water.md)<br>[529. Minesweeper](https://github.com/Zingg7/LeetCode/blob/master/529.%20Minesweeper.md)|[Click Me](https://docs.qq.com/doc/DTU16ZWdTZUFlcW1E?opendocxfrom=admin)|2019.06.06|
 |Stack|[? 84. Largest Rectangle in Histogram](https://github.com/Zingg7/LeetCode/blob/master/84.%20Largest%20Rectangle%20in%20Histogram)|[Click Me](https://docs.qq.com/doc/DRGZWS0puaWVVY2pJ?opendocxfrom=admin)|2019.06.07|
 |Backtracking|[? 78. Subsets]()|[Click Me](https://docs.qq.com/doc/DVlBDaFpNdll1dHFS?opendocxfrom=admin)|2019.06.09|
-|Backtracking|[79. Word Search](https://github.com/Zingg7/LeetCode/blob/master/79.%20Word%20Search.md)<br>[212. Word Search II](https://github.com/Zingg7/LeetCode/blob/master/212.%20Word%20Search%20II.md)|[Click Me](https://docs.qq.com/doc/DTW1reFBZUWxQWnJl?opendocxfrom=admin)|2019.06.10|
-||[? ]()<br>[?]()|[Click Me]()|2019.06.|
+|Backtracking<br>&Trie|[79. Word Search](https://github.com/Zingg7/LeetCode/blob/master/79.%20Word%20Search.md)<br>[212. Word Search II](https://github.com/Zingg7/LeetCode/blob/master/212.%20Word%20Search%20II.md)|[Click Me](https://docs.qq.com/doc/DTW1reFBZUWxQWnJl?opendocxfrom=admin)|2019.06.10|
+|Trie|[? 208. Implement Trie (Prefix Tree)]()|[Click Me](https://docs.qq.com/doc/DVmJEd2NiVE9HVmZV?opendocxfrom=admin)|2019.06.11|
+|Trie|[? 745. Prefix and Suffix Search]()|[Click Me](https://docs.qq.com/doc/DRGtpeE9SUGRwZElu?opendocxfrom=admin)|2019.06.12|
+|Array<br>Backtracking&DP|[? 791. Custom Sort String]()<br>[10. Regular Expression Matching](https://github.com/Zingg7/LeetCode/blob/master/10.%20Regular%20Expression%20Matching.md)|[Click Me](https://docs.qq.com/doc/DTU9zY2pZUUtoblBm?opendocxfrom=admin)|2019.06.13|
+|Array<br>DFS&BFS|[? 41. First Missing Positive]()<br>[? 207. Course Schedule]()|[Click Me](https://docs.qq.com/doc/DUHFjZ2pkWFFPd05Y?opendocxfrom=admin)|2019.06.14|
+|DP<br>Tree|[? 300. Longest Increasing Subsequence]()<br>[? 545.Boundary of Binary Tree]()|[Click Me](https://docs.qq.com/doc/DVmpKQ2tEQWthcGFr?opendocxfrom=admin)|2019.06.16|
+|Greedy|[? 135. Candy]()<br>[?]()|[Click Me]()|2019.06.17|
 
 
 
